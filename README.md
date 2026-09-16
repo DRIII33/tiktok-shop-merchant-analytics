@@ -12,6 +12,9 @@ This enterprise analytics project addresses merchant funnel drop-off and post-on
 - `Dashboard_Executive_Summary.md`: User manual and metric guide for the Looker Studio executive dashboard.
 - `Project_Disclaimer.md`: Data governance, compliance, and synthetic generation notice.
 
+## Dashboard
+<img src="assets/TikTok_Shop_Merchant_Onboarding_Performance_Analytics.jpeg" alt="Alt Text" width="500">
+
 ## Tech Stack
 - Data Warehousing: Google BigQuery (`driiiportfolio.tiktok_shop_analytics`)
 - Data Processing & Experimentation: Python (Pandas, SciPy, NumPy)
